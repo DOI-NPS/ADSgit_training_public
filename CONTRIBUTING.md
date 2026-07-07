@@ -2,4 +2,4 @@
 Any and all changes are accepted.
 
 ## Contributing Requirements: 
-None.
+Please update the NEWS.md file to reflect any changes.
